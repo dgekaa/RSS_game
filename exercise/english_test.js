@@ -5,8 +5,8 @@ let englishTranslate = [
 		translation : ["яблоко"]
 	},
 	{
-		word : "book ",
-		translation : ["книга", "книжка"]
+		word : "sister ",
+		translation : ["сестра"]
 	},
 	{
 		word : "human",
@@ -103,5 +103,113 @@ let englishTranslate = [
 	{
 		word : "paper",
 		translation : ["бумага", "газета", "документ"]
+	},
+	{
+		word : "бумага",
+		translation : ["paper"]
+	},
+	{
+		word : "яблоко",
+		translation : ["apple"]
+	},
+	{
+		word : "сестра",
+		translation : ["sister"]
+	},
+	{
+		word : "человек",
+		translation : ["human"]
+	},
+	{
+		word : "гора",
+		translation : ["mountain"]
+	},
+	{
+		word : "торт",
+		translation : ["cake"]
+	},
+	{
+		word : "школа",
+		translation : ["school"]
+	},
+	{
+		word : "телефон",
+		translation : ["phone"]
+	},
+	{
+		word : "карандаш",
+		translation : [" pencil"]
+	},
+	{
+		word : "изображение",
+		translation : ["picture"]
+	},
+	{
+		word : "проблема",
+		translation : ["problem"]
+	},
+	{
+		word : "семья",
+		translation : ["family"]
+	},
+	{
+		word : "тело",
+		translation : ["body"]
+	},
+	{
+		word : "брат",
+		translation : ["brother"]
+	},
+	{
+		word : "ребенок",
+		translation : ["child"]
+	},
+	{
+		word : "страна",
+		translation : ["country"]
+	},
+	{
+		word : "дверь",
+		translation : ["door"]
+	},
+	{
+		word : "пример",
+		translation : ["example"]
+	},
+	{
+		word : "продукт",
+		translation : ["product"]
+	},
+	{
+		word : "семья",
+		translation : ["family"]
+	},
+	{
+		word : "вопрос",
+		translation : ["question"]
+	},
+	{
+		word : "число",
+		translation : ["number"]
+	},
+	{
+		word : "наука",
+		translation : ["science"]
+	},
+	{
+		word : "голова",
+		translation : ["head"]
+	},
+	{
+		word : "конь",
+		translation : ["horse"]
+	},
+	{
+		word : "здание",
+		translation : ["house"]
+	},
+	{
+		word : "бумага",
+		translation : ["paper"]
 	}
 ];
